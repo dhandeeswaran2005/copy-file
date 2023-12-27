@@ -21,8 +21,8 @@ Display the output.
 ```
 '''
 #Program to copy the file.
-#Developed by: MOHAMED FAROOK S
-#RegisterNumber: 23014058
+#Developed by: Dhandeeswaran selvakumar
+#RegisterNumber: 23006838
 '''
 print("Enter the name of source file: ")
 sFile=input()
@@ -37,9 +37,9 @@ fileHandle.close()
 print("\nFile Copied Successfully!")
 ```
 ### OUTPUT:
-![image](https://github.com/MOHAMEDFAROOK2005/copy-file/assets/150319482/70224991-f533-4177-aa9a-f3e362d537b2)
+![Screenshot 2023-12-27 155404](https://github.com/dhandeeswaran2005/copy-file/assets/147139188/4a67cdd1-12a3-4707-b35c-762c6e16ce5b)
 
-![image](https://github.com/MOHAMEDFAROOK2005/copy-file/assets/150319482/b499f17b-3bf9-4cd2-99b5-d8d9adbc821e)
+![Screenshot 2023-12-27 155413](https://github.com/dhandeeswaran2005/copy-file/assets/147139188/0509cfa4-0441-4e30-b145-dd98d5008e49)
 
 
 ## RESULT:
